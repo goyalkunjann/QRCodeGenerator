@@ -1,7 +1,3 @@
-Certainly! Here's a simplified version of the README for a QR Code Generator:
-
----
-
 # QR Code Generator
 
 A simple web-based QR Code Generator using HTML, CSS, and JavaScript.
